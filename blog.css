@@ -5,8 +5,17 @@ img {
   height: 500px;
 }
 
+#vg1 {
+  border: 7px solid black;
+  padding: 20px;
+  width: 450px;
+  height: 250px;
+  margin-left: 107.5px
+}
 body {
-  font-family: monospace;
+  font-family: cursive;
+  background-image: url(http://download-wallpaper.net/images/4k-wallpapers/4k-wallpapers-6.jpg);
+  background-size: cover;
 }
 
 h1 {
@@ -20,4 +29,16 @@ h2 {
 
 p {
   text-indent: 4cm;
+  color: lavender;
+}
+
+li {
+  color: lavender;
+}
+
+#vg2 {
+  border: 7px solid black;
+  padding: 20px;
+  width: 665px;
+  height: 250px;
 }
